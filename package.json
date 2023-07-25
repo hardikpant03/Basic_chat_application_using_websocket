@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is a simple ChatApp that allows users to communicate with each other in real-time using WebSocket technology. It provides a server-side implementation using Node.js and a client-side implementation with a Bootstrap-based user interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "websocket": "^1.0.34",
+    "ws": "^8.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakash-sharma-github/Code_Clause_ChatApp_Using_WebSocket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aakash-sharma-github/Code_Clause_ChatApp_Using_WebSocket/issues"
+  },
+  "homepage": "https://github.com/aakash-sharma-github/Code_Clause_ChatApp_Using_WebSocket#readme"
+}
