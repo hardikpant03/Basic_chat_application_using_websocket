@@ -12,13 +12,13 @@ This is a simple ChatApp that allows users to communicate with each other in rea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aakash-sharma-github/Code_Clause_ChatApp_Using_WebSocket.git
+  https://github.com/hardikpant03/Basic_chat_application_using_websocket
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Code_Clause_basic_textEditor
+   cd websocket-server
    ```
 
 3. Install the project dependencies:
@@ -32,10 +32,10 @@ This is a simple ChatApp that allows users to communicate with each other in rea
 1. Run the server:
 
    ```bash
-   node index.js
+   node server.js
    ```
 
-2. Open your preferred web browser and navigate to `http://localhost:8000` to access the ChatApp.
+2. Open your preferred web browser and navigate to `http://localhost:5502` to access the ChatApp.
 
 3. Enter your desired username and start chatting! You should be able to see and send messages in real-time.
 
