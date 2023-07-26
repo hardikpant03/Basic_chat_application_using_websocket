@@ -11,20 +11,20 @@ This is a simple ChatApp that allows users to communicate with each other in rea
 
 1. Clone the repository:
 
-   ```bash
-  https://github.com/hardikpant03/Basic_chat_application_using_websocket
+   ```
+     https://github.com/hardikpant03/Basic_chat_application_using_websocket
    ```
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd websocket-server
+   ```
+      cd websocket-server
    ```
 
 3. Install the project dependencies:
 
-   ```bash
-   npm install
+   ```
+      npm install
    ```
 
 ## Usage
