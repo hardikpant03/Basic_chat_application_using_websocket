@@ -35,13 +35,13 @@ This is a simple ChatApp that allows users to communicate with each other in rea
    node index.js
    ```
 
-2. Open your preferred web browser and navigate to `http://localhost:3000` to access the ChatApp.
+2. Open your preferred web browser and navigate to `http://localhost:8000` to access the ChatApp.
 
 3. Enter your desired username and start chatting! You should be able to see and send messages in real-time.
 
 ## Customization
 
-- To modify the server port, navigate to `index.js` and update the `const port` variable to your desired port number.
+- To modify the server port, navigate to `server.js` and update the `const port` variable to your desired port number.
 - You can customize the UI by modifying the HTML and CSS files, specifically utilizing Bootstrap classes and components.
 
 ## Contributing
@@ -57,6 +57,6 @@ Submit a pull request, explaining the changes made and their benefits.
 The Web Text Editor is open source.
 
 ## Contact
-If you have any questions or suggestions, please don't hesitate to contact me, Aakash Sharma, at aakashsharma9855@gmail.com.
+If you have any questions or suggestions, please don't hesitate to contact me, Hardik Pant, at hardikpant8@gmail.com.
 
 Enjoy editing and formatting text with the Web Text Editor!
